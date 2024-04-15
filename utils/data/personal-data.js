@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+919993448391',
   address: 'Jabalpur, Madhya Pradesh, India - 482002 ',
   github: 'https://github.com/ankit8453',
-  facebook: '',
+  facebook: 'https://github.com/ankit8453',
   linkedIn: 'https://www.linkedin.com/in/ankit-pawar-30aab2179/',
-  twitter: '',
-  stackOverflow: '',
-  leetcode: "",
-  devUsername: "",
+  twitter: 'https://github.com/ankit8453',
+  stackOverflow: 'https://github.com/ankit8453',
+  leetcode: "https://github.com/ankit8453",
+  devUsername: "https://github.com/ankit8453",
   resume: "https://drive.google.com/file/d/1h4lK1hzcO_j6dRlHCVbVEXdFP3Bk0TM1/view?usp=sharing"
 }

@@ -36,8 +36,8 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: '',
-        description: "",
+        name: 'Weather Application',
+        description: "Weather Application",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
         demo: '',
